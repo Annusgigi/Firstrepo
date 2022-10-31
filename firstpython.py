@@ -1,0 +1,2 @@
+#display python
+print("Python")
